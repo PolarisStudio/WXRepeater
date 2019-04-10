@@ -2,6 +2,6 @@
 The chatbot can help you grasp the information.
 The repeater can repeat selected wechat groups' messages.
 
-# Lost info
-- some version have been lost during removing the sensible file
+# lost-version
+- versions lost during modification
 - now these code could be not usable
